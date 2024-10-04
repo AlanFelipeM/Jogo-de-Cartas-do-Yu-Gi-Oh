@@ -2,7 +2,7 @@
 
 Jogo de jokenpo que criei para estudar conceitos de lógica de programação aplicados a jogos
 
-Link do projeto rodando: <a href="https://alanfelipem.github.io/Jogo-de-Cartas-do-Yu-Gi-Oh/" target="_blank" >alanfelipem.github.io/Jogo-de-Cartas-do-Yu-Gi-Oh/</a>
+Link do projeto rodando: https://alanfelipem.github.io/Jogo-de-Cartas-do-Yu-Gi-Oh/
 
 ## Conceitos abordados:
 
